@@ -7,9 +7,13 @@ This repository documents my journey through the DeepLearning.AI TensorFlow Deve
 
 ## Certificate
 
-View my DeepLearning.AI TensorFlow Developer Professional Certificate here:
+![DeepLearning.AI TensorFlow Developer Professional Certificate](https://github.com/yinaS1234/AI-TensorFlow-Developer-Certification/blob/main/TensorFlow%20Certificate.png)
 
-[![View Certificate](https://img.shields.io/badge/View-Certificate-blue.svg)](https://github.com/yinaS1234/AI-TensorFlow-Developer-Certification/blob/main/AI-TensorFlow%20Certificate.pdf)
+## Verification
+
+For verification of the certificate, click here:
+
+[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-blue.svg)](https://www.coursera.org/account/accomplishments/professional-cert/U8BDHGAESVU6)
 
 ## Courses and Certificates
 
