@@ -44,7 +44,7 @@ The program consists of several courses, culminating in a comprehensive understa
 ## Natural Language Processing (NLP):
 
 - Applications: Chatbots, sentiment analysis, text classification, language translation, and content moderation.
-- Relevant Projects: BBC News Classification, Sentiment140 Sentiment Analysis, Shakespeare Next Word Prediction.
+- Relevant Projects: BBC News Classification, Twitter Sentiment Analysis, Shakespeare Next Word Prediction.
 
 ## Time Series Forecasting:
 
