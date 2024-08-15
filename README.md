@@ -24,7 +24,7 @@ The program consists of several courses, culminating in a comprehensive understa
 - Natural Language Processing in TensorFlow
 - Sequences, Time Series, and Prediction
 
-Top Project Highlight: 
+## Top Project Highlight: 
 
 - Cat vs Dog Classification: Binary image classification using CNNs.
 - Horse vs Human Transfer Learning: Transfer learning for binary image classification.
@@ -36,22 +36,22 @@ Top Project Highlight:
 
 
 
-- Image Classification and Computer Vision:
+## Image Classification and Computer Vision:
 
 - Applications: Product recognition, visual search, automated quality control.
 - Relevant Projects: Cat vs Dog Classification, Horse vs Human Transfer Learning.
 
-- Natural Language Processing (NLP):
+## Natural Language Processing (NLP):
 
 - Applications: Chatbots, sentiment analysis, text classification, language translation, and content moderation.
 - Relevant Projects: BBC News Classification, Sentiment140 Sentiment Analysis, Shakespeare Next Word Prediction.
 
-- Time Series Forecasting:
+## Time Series Forecasting:
 
 - Applications: Predictive analytics, financial forecasting, demand prediction, fraud detection.
 - Relevant Projects: Daily Minimum Temperatures Forecasting.
 
-- Transfer Learning:
+## Transfer Learning:
 
 - Applications: Leveraging pre-trained models for specific tasks, improving model performance with less data.
 - Relevant Projects: Horse vs Human Transfer Learning.
