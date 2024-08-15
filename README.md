@@ -28,7 +28,7 @@ Top Project Highlight:
 
 - Cat vs Dog Classification: Binary image classification using CNNs.
 - Horse vs Human Transfer Learning: Transfer learning for binary image classification.
-- Multi-Class Classification Problem using the Sign Language MNIST Dataset: Multi-class classification with CNNs.
+- Multi-Class Image Classification Problem using the Sign Language MNIST Dataset: Multi-class classification with CNNs.
 - BBC News Classification: Text classification using NLP techniques.
 - Twitter Sentiment Analysis: Large-scale text sentiment analysis using deep learning.
 - Shakespeare Next Word Prediction: NLP task for text generation, using LSTMs.
