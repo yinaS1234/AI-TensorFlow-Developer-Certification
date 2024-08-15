@@ -36,6 +36,30 @@ Top Project Highlight:
 
 
 
+- Image Classification and Computer Vision:
+
+- Applications: Product recognition, visual search, automated quality control.
+- Relevant Projects: Cat vs Dog Classification, Horse vs Human Transfer Learning.
+
+- Natural Language Processing (NLP):
+
+- Applications: Chatbots, sentiment analysis, text classification, language translation, and content moderation.
+- Relevant Projects: BBC News Classification, Sentiment140 Sentiment Analysis, Shakespeare Next Word Prediction.
+
+- Time Series Forecasting:
+
+- Applications: Predictive analytics, financial forecasting, demand prediction, fraud detection.
+- Relevant Projects: Daily Minimum Temperatures Forecasting.
+
+- Transfer Learning:
+
+- Applications: Leveraging pre-trained models for specific tasks, improving model performance with less data.
+- Relevant Projects: Horse vs Human Transfer Learning.
+
+
+
+
+
 ## How to Use This Repository
 
 This repository contains a series of Jupyter notebooks that represent the learning outcomes from the DeepLearning.AI TensorFlow Developer course. The assignments are organized sequentially, starting from `C1W1_Assignment.ipynb` and continuing through the entire course.  Feel free to explore, fork, and use the materials for your learning purposes.
