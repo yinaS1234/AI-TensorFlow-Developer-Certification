@@ -24,6 +24,18 @@ The program consists of several courses, culminating in a comprehensive understa
 - Natural Language Processing in TensorFlow
 - Sequences, Time Series, and Prediction
 
+Top Project Highlight: 
+
+-Cat vs Dog Classification: Binary image classification using CNNs.
+-Horse vs Human Transfer Learning: Transfer learning for binary image classification.
+-Multi-Class Classification Problem using the Sign Language MNIST Dataset: Multi-class classification with CNNs.
+-BBC News Classification: Text classification using NLP techniques.
+-Twitter Sentiment Analysis: Large-scale text sentiment analysis using deep learning.
+-Shakespeare Next Word Prediction: NLP task for text generation, using LSTMs.
+-Daily Minimum Temperatures Forecasting: Time series forecasting using a combination of Conv1D and LSTM layers.
+
+
+
 ## How to Use This Repository
 
 This repository contains a series of Jupyter notebooks that represent the learning outcomes from the DeepLearning.AI TensorFlow Developer course. The assignments are organized sequentially, starting from `C1W1_Assignment.ipynb` and continuing through the entire course.  Feel free to explore, fork, and use the materials for your learning purposes.
@@ -45,6 +57,10 @@ The repository is organized by course and week. Here is a brief overview of the 
 - **C2 (Convolutional Neural Networks in TensorFlow)**: Deep dive into CNNs, transfer learning, multi-class classification.
 - **C3 (Natural Language Processing in TensorFlow)**: Exploration of the BBC News archive, sentiment analysis on Twitter data, predicting the next word in a sentence.
 - **C4 (Sequences, Time Series, and Prediction)**: Working with time series data, using RNNs for prediction, enhancing forecasts with CNNs.
+
+
+
+
 
 
 
