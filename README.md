@@ -60,9 +60,6 @@ The program consists of several courses, culminating in a comprehensive understa
 
 
 
-## How to Use This Repository
-
-This repository contains a series of Jupyter notebooks that represent the learning outcomes from the DeepLearning.AI TensorFlow Developer course. The assignments are organized sequentially, starting from `C1W1_Assignment.ipynb` and continuing through the entire course.  Feel free to explore, fork, and use the materials for your learning purposes.
 
 
 ### Recommended Study Approach:
@@ -72,6 +69,8 @@ This repository contains a series of Jupyter notebooks that represent the learni
 - **Active Learning**: As you progress, take the time to thoroughly understand the concepts presented in each week's material. If you encounter areas that are unclear or challenging, it's beneficial to revisit the corresponding lectures or readings to reinforce your understanding.
 
 - **Hands-On Practice**: Hands-on practice is crucial for internalizing the concepts. Make sure to actively engage with the exercises and complete the assignments by yourself. This approach will help you grasp the practical aspects of TensorFlow and how it can be used to solve real-world problems in artificial intelligence, machine learning, and deep learning.
+
+
 
 ### Repository Structure:
 
